@@ -13,7 +13,7 @@ The plan is to have different ways of creating notes.
 No issues at this time, please report issues using the 'Issues' tab above. 
   
 ### To-do List  
-- [ ] Make the website 
+- [X] Make the website 
 - [X] Make the C# app 
 - [ ] Give the C# app a theme 
 - [ ] Make the Linux app 
